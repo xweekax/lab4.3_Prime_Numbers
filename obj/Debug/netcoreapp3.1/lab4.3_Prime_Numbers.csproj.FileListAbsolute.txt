@@ -1,0 +1,13 @@
+C:\devbuild4\lab4.3_Prime_Numbers\bin\Debug\netcoreapp3.1\lab4.3_Prime_Numbers.exe
+C:\devbuild4\lab4.3_Prime_Numbers\bin\Debug\netcoreapp3.1\lab4.3_Prime_Numbers.deps.json
+C:\devbuild4\lab4.3_Prime_Numbers\bin\Debug\netcoreapp3.1\lab4.3_Prime_Numbers.runtimeconfig.json
+C:\devbuild4\lab4.3_Prime_Numbers\bin\Debug\netcoreapp3.1\lab4.3_Prime_Numbers.runtimeconfig.dev.json
+C:\devbuild4\lab4.3_Prime_Numbers\bin\Debug\netcoreapp3.1\lab4.3_Prime_Numbers.dll
+C:\devbuild4\lab4.3_Prime_Numbers\bin\Debug\netcoreapp3.1\lab4.3_Prime_Numbers.pdb
+C:\devbuild4\lab4.3_Prime_Numbers\obj\Debug\netcoreapp3.1\lab4.3_Prime_Numbers.csprojAssemblyReference.cache
+C:\devbuild4\lab4.3_Prime_Numbers\obj\Debug\netcoreapp3.1\lab4.3_Prime_Numbers.AssemblyInfoInputs.cache
+C:\devbuild4\lab4.3_Prime_Numbers\obj\Debug\netcoreapp3.1\lab4.3_Prime_Numbers.AssemblyInfo.cs
+C:\devbuild4\lab4.3_Prime_Numbers\obj\Debug\netcoreapp3.1\lab4.3_Prime_Numbers.csproj.CoreCompileInputs.cache
+C:\devbuild4\lab4.3_Prime_Numbers\obj\Debug\netcoreapp3.1\lab4.3_Prime_Numbers.dll
+C:\devbuild4\lab4.3_Prime_Numbers\obj\Debug\netcoreapp3.1\lab4.3_Prime_Numbers.pdb
+C:\devbuild4\lab4.3_Prime_Numbers\obj\Debug\netcoreapp3.1\lab4.3_Prime_Numbers.genruntimeconfig.cache
